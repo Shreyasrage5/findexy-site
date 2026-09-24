@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /findexy-site/
+
+Sitemap: https://shreyasrage5.github.io/findexy-site/sitemap.xml
